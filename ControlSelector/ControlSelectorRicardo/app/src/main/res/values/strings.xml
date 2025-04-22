@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">ControlSeleccion</string>
+    <string name="controles_de_seleccion">Controles de Seleccion</string>
+    <string name="tituloCheckbox">RadioButton y CheckBox</string>
+
+    <string name="nombreJugador1">James Rodriguez</string>
+    <string name="nombreJugador2">Alejandro Ararat </string>
+    <string name="nombreJugador3">Gullermo Celis</string>
+    <string name="nombreJugador4">Marcus Vinicius</string>
+    <string name="nombreJugador5">Juan Sebastian Quiintero</string>
+    <string name="nombreJugador6">Falcao</string>
+    <string name="nombreJugador7">David Ospina</string>
+
+    <string name="descripcionJugador1">James David Rodríguez Rubio nació en Cúcuta el 12 de julio de 1991, fruto de la relación sentimental de James Rodríguez, quien también fue jugador profesional de equipos como Cúcuta Deportivo y Tolima, y María del Pilar Rubio. Así su relación con el mundo del balón fue desde su niñez e incluso hay fotos en archivos junto a su padre en estadios, posando en la previa de los partidos.</string>
+    <string name="descripcionJugador2">Nuestro Jugador Alejandro Ararat, convocado a la Selección Colombia Sub 20 como preparación al Torneo Conmebol Sudamericano Masculino 2025    </string>
+    <string name="descripcionJugador3">Centrocampista colombiano nacido en Sincelejo en 1993. Actualmente juega para Águilas Doradas en la Categoría Primera A</string>
+    <string name="descripcionJugador4">Extremo brasileño nacido en 1997. Juega como extremo izquierdo para Independiente Medellín en la Categoría Primera A.</string>
+    <string name="descripcionJugador5">Defensa central colombiano nacido en Cali en 1995. Actualmente juega para Deportivo Cali en la Categoría Primera A</string>
+    <string name="descripcionJugador6">Falcao inició su carrera profesional en Lanceros Boyacá, debutando a los 13 años en la segunda división colombiana, lo que lo convirtió en el jugador más joven en debutar en el fútbol profesional colombiano. En 2001, se unió a las divisiones inferiores de River Plate en Argentina. Su debut en el primer equipo se produjo en 2005, y para 2008 ya era una pieza clave, contribuyendo significativamente a la conquista del Torneo Clausura 2008. Durante su etapa en River, disputó 90 partidos y anotó 34 goles.</string>
+    <string name="descripcionJugador7">David Ospina es un reconocido futbolista profesional colombiano que ha obtenido reconocimiento tanto en su país natal como en el ámbito internacional. Nacido el 31 de agosto de 1988 en Medellín, Colombia, Ospina se ha destacado como portero gracias a sus habilidades excepcionales y su natural habilidad atlética. Se ha convertido en uno de los atletas colombianos más celebrados, con una exitosa carrera que abarca más de una década.</string>
+
+    <string name="nombreEquipo1">America de Cali</string>
+    <string name="nombreEquipo2">Cali</string>
+    <string name="nombreEquipo3">Millonarios</string>
+    <string name="nombreEquipo4">Atletico Huila</string>
+    <string name="nombreEquipo5">Aguilas</string>
+    <string name="nombreEquipo6">Medellin</string>
+    <string name="nombreEquipo7">Nacional</string>
+
+    <string name="descripcionEquipo1">América de Cali es un club del fútbol profesional colombiano, fundado el 13 de febrero de 1927 en la ciudad de Cali. Es considerado uno de los equipos más grandes de Sudamérica por sus participaciones a nivel internacional</string>
+    <string name="descripcionEquipo2">También apodado El Azucarero, El Verdiblanco, El Glorioso, La Amenaza Verde, El Super Depor, juega actualmente en la primera división del fútbol colombiano en la que suma nueve títulos: 1965, 1967, 1969, 1970, 1974, 1996, 1998, 2005-II y 2015-I. También ostenta un título de Copa Colombia: 2010. En la época amateur, el azucarero ganó dos títulos de Campeonato Nacional: 1928 y 1930.</string>
+    <string name="descripcionEquipo3">Millonarios Fútbol Club, oficialmente Azul y Blanco Millonarios Fútbol Club S. A.​ (antes Club Deportivo Los Millonarios), mejor conocido como Millonarios,​ es un club de fútbol de la ciudad de Bogotá, capital de Colombia. Es uno de los clubes más laureados y emblemáticos de Colombia, por lo tanto, es considerado uno de los clubes más grandes del país.</string>
+    <string name="descripcionEquipo4">El Club Deportivo Atlético Huila es una Institución que desarrolla un sistema deportivo, que impulsa el crecimiento profesional y personal de nuestros jugadores; comprometido al logro de resultados futbolísticos, brindando a  la afición motivos de orgullo y pasión mediante un mejoramiento continuo sustentado en la iniciativa la creatividad y el talento. </string>
+    <string name="descripcionEquipo5">Fundado en 2008, este equipo ha tenido varias transformaciones y actualmente juega en Rionegro. Es conocido como "El Equipo Dorado</string>
+    <string name="descripcionEquipo6">Fundado en 1913, conocido como "El Poderoso de la Montaña". Ha ganado varios títulos nacionales y es uno de los equipos más representativos de Colombia</string>
+    <string name="descripcionEquipo7">Hablar de la historia de Atlético Nacional significa devolverse hasta los años 30, más precisamente a 1935, en ‘La manga de Don Pepe’, donde se inició un pequeño club que, con el pasar de los años, se convertiría en uno de los más grandes del fútbol en Colombia.</string>
+</resources>

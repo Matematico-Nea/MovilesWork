@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="combo_equipos">
+        <item>Seleccionar</item>
+        <item>America de Cali</item>
+        <item>Deportivo Cali</item>
+        <item>Millonarios F.C</item>
+        <item>Atletico Huila</item>
+        <item>Atletico Junior</item>
+        <item>Deportivo Pasto</item>
+    </string-array>
+
+    <string-array name="combo_jugadores">
+        <item>James Rodriguez</item>
+        <item>Alejandro Ararat</item>
+        <item>Guillermo Celis</item>
+        <item>Marcus Vinicus</item>
+        <item>Juan sebastian Quiintero</item>
+        <item>Falcao  Garcia</item>
+        <item>David Ospina</item>
+    </string-array>
+</resources>
